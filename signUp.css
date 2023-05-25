@@ -1,0 +1,70 @@
+html {
+      background-image: url("../images/new3d.JPG");
+    
+    background-size: cover;
+}
+
+body {
+   
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    
+}
+body header h1 {
+    
+    font-family: monospace;
+    font-size: 850%;
+    padding-bottom: 0;
+    margin-top: .5em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+
+}
+section {
+    
+    font-size: 100%;
+    letter-spacing: .05rem;
+    margin-top: 22em;
+    
+    
+
+
+}
+label {
+    color: black;
+    float: left;
+    width: 8em;
+    font-weight: bold;
+    text-align: right;
+    margin-left: 1em;
+    clear: both;
+    font-family: sans-serif;
+}
+input {
+    width: 15em;
+    margin-left: em;
+    margin-bottom: .5em;   
+
+}
+main{
+    
+    width: 7em;
+   
+    
+    margin-left: 9em;
+}
+ article {
+    float:right;
+    padding-left: 3.5em;
+    margin-right: 27em;
+}
+a { font-weight: bold; }
+a:link { color: black; } /* color before clicked */
+a:visited { color: dimgray;} /* color after clicked */
+a:hover, a:focus { color: blue; } /* mouse hover highlight */
+
+

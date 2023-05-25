@@ -1,0 +1,60 @@
+/* the styles for the elements */
+html {
+     background-image: url("../images/new3d.JPG");
+    
+    background-size: cover;
+}
+
+body {
+    
+    
+}
+
+a { font-weight: bold; }
+a:link { color: black; } /* color before clicked */
+a:visited { color: dimgray;} /* color after clicked */
+a:hover, a:focus { color: blue; } /* mouse hover highlight */
+
+header h1{
+    font-family: monospace;
+    font-size: 950%;
+    padding-bottom: 0;
+    margin-top: .5em;
+    margin-bottom: 0;
+    margin-left: 1.35em;
+    
+    
+}
+header h3{
+    font-size: 220%;
+    
+    font-kerning: normal;
+    margin-left: 5em;;
+    letter-spacing: .2rem;
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+main {
+    padding-left: 10em;
+    margin-top: 11em;
+    padding-top: 10em;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+footer p {
+    font-size: 90%;
+    letter-spacing: .05rem;
+    clear: both;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: bold;
+    margin-left: 74em;
+    
+}
+   
+    
+

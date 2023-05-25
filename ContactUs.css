@@ -1,0 +1,98 @@
+html {
+      background-image: url("../images/new3d.JPG");
+    
+    background-size: cover;
+}
+
+body {
+   
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    
+}
+body header h1 {
+    
+    font-family: monospace;
+    font-size: 650%;
+    padding-bottom: 0;
+    margin-top: .5em;
+    margin-bottom: 0em;
+    margin-left: 1.5em;
+    width: 600px;
+    
+
+}
+div {
+     width: 500px;
+    font-size: 170%;
+    letter-spacing: .05rem;
+    margin-top: 1em;
+    margin-left: 5em;
+    padding-right: 2em;
+    font-family: monospace;
+    text-align: center;
+    text-decoration: underline;
+    font-style:;
+    
+}
+main {
+     width: 500px;
+    font-size: 110%;
+    letter-spacing: .05rem;
+    margin-top: 1em;
+    margin-left: 8em;
+    padding-right: 2em;
+    font-family: helvetica;
+    text-align: center;
+    
+}
+section {
+    
+    font-size: 100%;
+    letter-spacing: .05rem;
+    margin-top: 15em;
+    margin-left: 4em;
+    
+    
+    
+
+
+}
+label {
+    color: black;
+    float: left;
+    width: 8em;
+    font-weight: bold;
+    text-align: right;
+    margin-left: 1em;
+    clear: both;
+    font-family: sans-serif;
+}
+input {
+    width: 15em;
+    margin-left: em;
+    margin-bottom: .5em;   
+
+}
+main{
+    
+    width: 7em;
+   
+    
+    margin-left: 9em;
+}
+ article {
+    float:right;
+    padding-left: 3.5em;
+    margin-right: 27em;
+}
+a { font-weight: bold; }
+a:link { color: black; } /* color before clicked */
+a:visited { color: dimgray;} /* color after clicked */
+a:hover, a:focus { color: blue; } /* mouse hover highlight */
+
+

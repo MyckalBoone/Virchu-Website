@@ -1,0 +1,63 @@
+html {
+      background-image: url("../images/okcmon.PNG");
+    
+    background-size: cover;
+}
+
+body {
+    
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+body header h1 {
+    
+    font-family: monospace;
+    font-size: 800%;
+    margin-left: 1.5em;
+    padding-bottom: 0;
+    
+    margin-top: .1em;
+    margin-bottom: 0;
+}
+
+section {
+   float: right;
+   width: 450px;
+    font-size: 100%;
+    letter-spacing: .05rem;
+    margin-top: 0em;
+    margin-left: 3em;
+    
+  
+    padding-right: 5.5em;
+    
+    
+    text-align: center;
+        font-family: helvetica;
+    
+}
+main {
+     width: 500px;
+    font-size: 110%;
+    letter-spacing: .05rem;
+    margin-top: 1em;
+    margin-left: 8em;
+    padding-right: 2em;
+    font-family: helvetica;
+    text-align: center;
+    
+}
+
+article {
+    float:right;
+    padding-left: 3.5em;
+    margin-right: 27em;
+}
+a { font-weight: bold; }
+a:link { color: black; } /* color before clicked */
+a:visited { color: dimgray;} /* color after clicked */
+a:hover, a:focus { color: blue; } /* mouse hover highlight */
+
+
